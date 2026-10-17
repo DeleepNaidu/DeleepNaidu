@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm DleepNaidu 👋
 
-<!--
-**DeleepNaidu/DeleepNaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning embedded systems and building projects with STM32 microcontrollers.
 
-Here are some ideas to get you started:
+## What I'm learning
+- C programming
+- STM32CubeIDE and the STM32 HAL
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **STM32 LED Blink** — My first project with the Nucleo-C031C6. I made the onboard LD4 LED blink.
+
+More projects coming as I learn!
